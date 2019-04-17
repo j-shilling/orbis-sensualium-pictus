@@ -24,50 +24,50 @@ Posteā ībimus in *Mundum* et spectābimus omnia.
 
 Hic habēs vīvum et vōcāle Alphabētum.
 
-*Cornix* cornicatur, a a
+*Cornīx* cornīcātur, ā ā
 
-*Agnus* balat, b e e e
+*Agnus* bālat, b ē ē ē
 
-*Cicada* stridet, ci ci
+*Cicāda* strīdet, cī cī
 
-*Upupa* dicit, du du
+*Upupa* dīcit, du du
 
-*Infans* ejulat, e e e
+*Īnfāns* ejulat, ē ē ē
 
-*Ventus* flat, fi fi
+*Ventus* flat, fī fī
 
-*Anser* gringrit, ga ga
+*Ānser* gringrit, ga ga
 
-*Os* halat, ha'h ha'h
+*Os* hālat, ha'h ha'h
 
-*Mus* mintrit, i i i
+*Mūs* mintrit, ī ī ī
 
-*Anas* tetrinnit, kha kha
+*Anās* tetrinnit, kha kha
 
 *Lupus* ululat, lu ulu
 
 *Ursus* murmurat, mummum-
 
-*Felis* clamat, nau nau
+*Fēlis* clāmat, nau nau
 
-*Auriga* clamat, o o o
+*Aurīga* clāmat, ō ō ō
 
-*Pullus* pipit, pi pi
+*Pullus* pīpit, pī pī
 
-*Cuculus* cuculat, kuk ku
+*Cucūlus* cuculat, kuk kū
 
 *Canis* ringitur, err
 
-*Serpens*, sibilat, si
+*Serpēns* sībilat, sī
 
-*Graculus* clamat, tac tac
+*Grāculus* clāmat, tāc tāc
 
-*Bubo* ululat, u u
+*Būbō* ululat, u u
 
-*Lepus* vagit, va
+*Lepus* vāgit, va
 
-*Rana* coaxat, coax
+*Rāna* coaxat, coāx
 
 *Asinus* rudit, y y y
 
-*Tabanus* dicit, ds ds
+*Tabānus* dīcit, ds ds
