@@ -23,3 +23,51 @@ M. Ānte omnia, dēbēs discere simplicēs *Sōnōs* ex quibus *Sermō* hūmānu
 Posteā ībimus in *Mundum* et spectābimus omnia.
 
 Hic habēs vīvum et vōcāle Alphabētum.
+
+*Cornix* cornicatur, a a
+
+*Agnus* balat, b e e e
+
+*Cicada* stridet, ci ci
+
+*Upupa* dicit, du du
+
+*Infans* ejulat, e e e
+
+*Ventus* flat, fi fi
+
+*Anser* gringrit, ga ga
+
+*Os* halat, ha'h ha'h
+
+*Mus* mintrit, i i i
+
+*Anas* tetrinnit, kha kha
+
+*Lupus* ululat, lu ulu
+
+*Ursus* murmurat, mummum-
+
+*Felis* clamat, nau nau
+
+*Auriga* clamat, o o o
+
+*Pullus* pipit, pi pi
+
+*Cuculus* cuculat, kuk ku
+
+*Canis* ringitur, err
+
+*Serpens*, sibilat, si
+
+*Graculus* clamat, tac tac
+
+*Bubo* ululat, u u
+
+*Lepus* vagit, va
+
+*Rana* coaxat, coax
+
+*Asinus* rudit, y y y
+
+*Tabanus* dicit, ds ds
