@@ -1,21 +1,25 @@
-# [Invitatio](https://www.archive.org/stream/cu31924032499455#page/n40/mode/1up)
+# [Invītātiō](https://www.archive.org/stream/cu31924032499455#page/n40/mode/1up)
 
 *Magister et Puer*
 
-M. Veni, Puer, disce sapere.
+M. Vēnī, Puer, disce sapere. 
 
 P. Quid hoc est, *Sapere*?
 
-M. Intelligere recte, agere recte, et eloqui recte omnia necessaria.
+M. Intelligēre rēctē, agere rēctē, et ēloquī rēctē omnia necessāria.
 
-P. Quis docebit me hoc?
+P. Quis docēbit mē hoc?
 
-M. Ego, cum DEO.
+M. Ego, cum DEŌ. 
 
-P. Quomodo?
+P. Quōmodo?
 
-M. Ducam te per omnia. Ostendam tibi omnia. Nominabo tibi omnia.
+M. Dūcam tē per omnia. Ostendam tibi omnia. Nōminābō tibi omnia.
 
-P. En, adsum; duc me in nomine DEI.
+P. Ēn, adsum; dūc mē in nōmine DEĪ.
 
-M. Ante omnia, debes discere simplices *Sonos* ex quibus *Sermo* humanus constat; quos *Animalia* sciunt *formare*, et tua *Lingua* scit *imitari*, et tua *Manus* potest *pingere*. Postea ibimus in *Mundum* et spectabimus omnia. Hic habes vivum et vocale Alphabetum.
+M. Ānte omnia, dēbēs discere simplicēs *Sōnōs* ex quibus *Sermō* hūmānus cōnstat; quōs *Animālia* sciunt *fōrmāre*, et tua *Lingua* scit *imitārī*, et tua *Manus* potest *pingere*.
+
+Posteā ībimus in *Mundum* et spectābimus omnia.
+
+Hic habēs vīvum et vōcāle Alphabētum.
