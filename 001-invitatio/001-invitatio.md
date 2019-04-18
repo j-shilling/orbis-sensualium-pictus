@@ -72,4 +72,6 @@ Hic habēs vīvum et vōcāle Alphabētum.
 
 *Tabānus* dīcit, ds ds
 
+---
+
 [Deus](../002-deus/002-deus.md)
