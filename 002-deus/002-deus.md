@@ -1,4 +1,4 @@
-[Invītātiō](../001-inviatio/001-invitatio.md)
+[Invītātiō](../001-invitatio/001-invitatio.md)
 
 ---
 
