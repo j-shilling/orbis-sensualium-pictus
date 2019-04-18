@@ -1,5 +1,7 @@
 [Invītātiō](../001-inviatio/001-invitatio.md)
+
 ---
+
 # [Deus](https://www.archive.org/stream/cu31924032499455#page/n44/mode/1up)
 
 *Deus* est ex sēipsō, ab aeternō in aeternum.
@@ -25,5 +27,7 @@ Ubīque et nūllibi.
 Summum *Bonum*, et sōlus et inexhaustus Fōns omnium Bonōrum.
 
 Ut *Creātor*, ita *Gubernātor* et *Cōnservātor* omnium rērum, quās vocāmus *Mundum*.
+
 ---
+
 [Mundus](../003-mundus/003-mundus.md)
