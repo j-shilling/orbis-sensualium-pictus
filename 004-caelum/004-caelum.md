@@ -1,3 +1,7 @@
+[Mundus](../003-mundus/003-mundus.md)
+
+---
+
 # [Caelum](https://www.archive.org/stream/cu31924032499455#page/n46/mode/1up)
 
 *Caelum*, rotātur, et ambit *Terram*, stantem in mediō.
@@ -11,3 +15,7 @@ Nocte splendet *Lūna* et *Stēllae*, micant, scintillant.
 *Vesperī*, est *Crepusculum*.
 
 Manē Aurōra, et Dīlūculum.
+
+---
+
+[Ignis](../005-ignis/005-ignis.md)

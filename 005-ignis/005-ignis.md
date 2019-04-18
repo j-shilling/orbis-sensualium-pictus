@@ -1,3 +1,7 @@
+[Caelum](../004-caelum/004-caelum.md)
+
+---
+
 # [Ignis](https://www.archive.org/stream/cu31924032499455#page/n47/mode/1up)
 
 *Ignis* ārdet, ūrit, cremat.
@@ -11,3 +15,7 @@ Ex *Torre*, (lignō ārdente,) fit *Titiō*, (lignum extīnctum.)
 Ex *Prūnā*, (candente particulā Torris,) fit *Carbō*, (*Particula mortua*.)
 
 Quod remanet, tandem est *Cinis*, et *Favīlla* (ārdēns *Cinis*.)
+
+---
+
+[Aer](../006-aer/006-aer.md)
