@@ -71,3 +71,5 @@ Hic habēs vīvum et vōcāle Alphabētum.
 *Asinus* rudit, y y y
 
 *Tabānus* dīcit, ds ds
+
+[Deus](../002-deus/002-deus.md)
