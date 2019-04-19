@@ -12,4 +12,4 @@ Flūmen habet *Rīpās*.
 
 ---
 
-[Nubes](../008-nubes/008-nubes.md)
+[Nūbēs](../008-nubes/008-nubes.md)
