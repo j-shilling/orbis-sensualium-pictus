@@ -6,7 +6,7 @@
 
 *Caelum* habet *Ignem* et *Stēllās*.
 
-*Nūbēs*, pendent in *Aere*.
+*Nūbēs*, pendent in *Āere*.
 
 *Avēs*, volant sub *nūbibus*.
 
