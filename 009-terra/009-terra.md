@@ -8,4 +8,4 @@ In Terrā sunt Altī Montēs, Profundae vallēs, Ēlevātī Collēs, cavae Spēl
 
 ---
 
-[Terrae Fētus](../010-terrae-fetus/010-terrae-fetus.md)
+[Terrae Fētū](../010-terrae-fetus/010-terrae-fetus.md)
