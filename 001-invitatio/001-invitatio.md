@@ -6,7 +6,7 @@ M. Vēnī, Puer, disce sapere.
 
 P. Quid hoc est, *Sapere*?
 
-M. Intelligēre rēctē, agere rēctē, et ēloquī rēctē omnia necessāria.
+M. Intellegere rēctē, agere rēctē, et ēloquī rēctē omnia necessāria.
 
 P. Quis docēbit mē hoc?
 
