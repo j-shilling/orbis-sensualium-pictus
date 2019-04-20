@@ -22,4 +22,4 @@ Faciunt *Cantharōs* ē *Stannō*.
 
 ---
 
-[Lapides](../012-lapides/012-lapides.md)
+[Lapidēs](../012-lapides/012-lapides.md)

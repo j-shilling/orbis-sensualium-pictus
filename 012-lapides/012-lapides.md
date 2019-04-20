@@ -2,7 +2,7 @@
 
 ---
 
-# [Lapides](https://www.archive.org/stream/cu31924032499455#page/n55/mode/1up)
+# [Lapidēs](https://www.archive.org/stream/cu31924032499455#page/n55/mode/1up)
 
 *Arēna*, et *Sabulum*, est *Lapis* comminūtus.
 
