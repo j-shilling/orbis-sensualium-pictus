@@ -2,7 +2,7 @@
 
 ---
 
-# [Fructus Arborum](https://www.archive.org/stream/cu31924032499455#page/n57/mode/1up)
+# [Frūctūs Arborum](https://www.archive.org/stream/cu31924032499455#page/n57/mode/1up)
 
 Pōma dēcerpuntur ā frūctiferīs arboribus.
 
