@@ -28,4 +28,4 @@ Quercus Glandēs et Gallās.
 
 ---
 
-[Flores](../015-flores/015-flores.md)
+[Flōrēs](../015-flores/015-flores.md)
