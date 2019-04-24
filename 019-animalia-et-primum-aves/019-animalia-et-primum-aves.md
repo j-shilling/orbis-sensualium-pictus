@@ -2,7 +2,7 @@
 
 ---
 
-# [Animalia: et primum, Aves](https://www.archive.org/stream/cu31924032499455#page/n63/mode/1up)
+# [Animālia: et prīmum, Avēs](https://www.archive.org/stream/cu31924032499455#page/n63/mode/1up)
 
 Animal vīvit, sentit, movet sē; nāscitur, moritur, nūtrītūr, et crēscit; stat aut sedet, aut cubat, aut graditur.
 

@@ -14,4 +14,4 @@ Item Vītis, quae ēmittit Palmitēs, et hī Capreolōs, Pampinōs, et Racēmōs
 
 ---
 
-[Animalia: et primum, Aves](../019-animalia-et-primum-aves/019-animalia-et-primum-aves.md)
+[Animālia: et prīmum, Avēs](../019-animalia-et-primum-aves/019-animalia-et-primum-aves.md)
