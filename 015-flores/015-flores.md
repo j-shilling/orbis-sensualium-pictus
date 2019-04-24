@@ -1,4 +1,4 @@
-[Frūctūs Arborum](../014-fructus-arborum/014-fuctus-arborum.md)
+[Frūctūs Arborum](../014-fructus-arborum/014-fructus-arborum.md)
 
 ---
 
