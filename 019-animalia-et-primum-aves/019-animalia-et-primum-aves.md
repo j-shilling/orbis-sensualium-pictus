@@ -1,4 +1,4 @@
-[Fruticēs](../018-frutices/018-frutices)
+[Fruticēs](../018-frutices/018-frutices.md)
 
 ---
 
