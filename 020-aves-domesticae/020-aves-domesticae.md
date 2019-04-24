@@ -16,4 +16,4 @@ Hirundō, Passer, Pīca, Monēdula, et Vespertīliō (Mūs ālātus) volitant ci
 
 ---
 
-[Oscines](../021-oscines/021-oscines.md)
+[Oscinēs](../021-oscines/021-oscines.md)
