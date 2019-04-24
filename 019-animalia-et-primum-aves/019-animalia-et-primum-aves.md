@@ -14,4 +14,4 @@ Fēmella pōnit Ōva in nīdō et incubāns iīs exclūdit Pullōs.
 
 ---
 
-[Aves Domesticae](../020-aves-domesticae/020-aves-domesticae.md)
+[Avēs Domesticae](../020-aves-domesticae/020-aves-domesticae.md)
