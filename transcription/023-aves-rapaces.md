@@ -1,4 +1,4 @@
-[Avēs Campestrēs et Silvestrēs](./aves-campestres-et-silvestres.md)
+[Avēs Campestrēs et Silvestrēs](./022-aves-campestres-et-silvestres.md)
 
 ---
 
@@ -16,4 +16,4 @@ Astur captat columbās et avēs majōrēs.
 
 ---
 
-[Avēs Aquāticae](./aves-aquaticae.md)
+[Avēs Aquāticae](./024-aves-aquaticae.md)
