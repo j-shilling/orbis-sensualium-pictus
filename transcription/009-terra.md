@@ -1,4 +1,4 @@
-[Nūbēs](../008-nubes.md)
+[Nūbēs](./008-nubes.md)
 
 ---
 
@@ -8,4 +8,4 @@ In Terrā sunt Altī Montēs, Profundae vallēs, Ēlevātī Collēs, cavae Spēl
 
 ---
 
-[Terrae Fētūs](../010-terrae-fetus.md)
+[Terrae Fētūs](./010-terrae-fetus.md)

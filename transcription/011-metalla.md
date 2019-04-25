@@ -1,4 +1,4 @@
-[Terrae Fētūs](../010-terrae-fetus.md)
+[Terrae Fētūs](./010-terrae-fetus.md)
 
 ---
 
@@ -22,4 +22,4 @@ Faciunt *Cantharōs* ē *Stannō*.
 
 ---
 
-[Lapidēs](../012-lapides.md)
+[Lapidēs](./012-lapides.md)

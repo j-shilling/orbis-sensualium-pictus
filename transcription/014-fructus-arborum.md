@@ -1,4 +1,4 @@
-[Arbor](../013-arbor.md)
+[Arbor](./013-arbor.md)
 
 ---
 
@@ -28,4 +28,4 @@ Quercus Glandēs et Gallās.
 
 ---
 
-[Flōrēs](../015-flores.md)
+[Flōrēs](./015-flores.md)

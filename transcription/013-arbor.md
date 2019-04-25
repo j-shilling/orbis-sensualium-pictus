@@ -1,4 +1,4 @@
-[Lapidēs](../012-lapides.md)
+[Lapidēs](./012-lapides.md)
 
 ---
 
@@ -24,4 +24,4 @@ Planta abit in *Fruticem*, *Frutex* in *Arborem*.
 
 ---
 
-[Frūctūs Arborum](../014-fructus-arborum.md)
+[Frūctūs Arborum](./014-fructus-arborum.md)

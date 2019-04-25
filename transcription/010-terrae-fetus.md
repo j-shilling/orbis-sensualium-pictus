@@ -1,4 +1,4 @@
-[Terra](../009-terra.md)
+[Terra](./009-terra.md)
 
 ---
 
@@ -14,4 +14,4 @@ Metalla, Lapidēs, Minerālia, nāscuntur sub terrā.
 
 ---
 
-[Metalla](../011-metalla.md)
+[Metalla](./011-metalla.md)

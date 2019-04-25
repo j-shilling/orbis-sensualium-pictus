@@ -1,4 +1,4 @@
-[Mundus](../003-mundus.md)
+[Mundus](./003-mundus.md)
 
 ---
 
@@ -18,4 +18,4 @@ Manē Aurōra, et Dīlūculum.
 
 ---
 
-[Ignis](../005-ignis.md)
+[Ignis](./005-ignis.md)

@@ -1,4 +1,4 @@
-[Fruticēs](../018-frutices.md)
+[Fruticēs](./018-frutices.md)
 
 ---
 
@@ -14,4 +14,4 @@ Fēmella pōnit Ōva in nīdō et incubāns iīs exclūdit Pullōs.
 
 ---
 
-[Avēs Domesticae](../020-aves-domesticae.md)
+[Avēs Domesticae](./020-aves-domesticae.md)

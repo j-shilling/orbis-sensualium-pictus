@@ -1,4 +1,4 @@
-[Caelum](../004-caelum.md)
+[Caelum](./004-caelum.md)
 
 ---
 
@@ -18,4 +18,4 @@ Quod remanet, tandem est *Cinis*, et *Favīlla* (ārdēns *Cinis*.)
 
 ---
 
-[Āēr](../006-aer.md)
+[Āēr](./006-aer.md)
