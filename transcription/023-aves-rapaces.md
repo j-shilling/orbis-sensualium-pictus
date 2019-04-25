@@ -16,4 +16,4 @@ Astur captat columbās et avēs majōrēs.
 
 ---
 
-[Aves Aquaticae](./aves-aquaticae.md)
+[Avēs Aquāticae](./aves-aquaticae.md)
