@@ -36,7 +36,7 @@ Hic habēs vīvum et vōcāle Alphabētum.
 
 *Ventus* flat, fī fī
 
-*Ānser* gringrit, ga ga
+*Ānser* gingrit, ga ga
 
 *Os* hālat, ha'h ha'h
 
