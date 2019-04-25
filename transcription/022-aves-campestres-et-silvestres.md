@@ -20,4 +20,4 @@ Inter reliquās potissimae sunt Grūs pervigil, Turtur gemēns, Cucūlus, Palumb
 
 ---
 
-[Aves Rapaces](./aves-rapaces.md)
+[Avēs Rapācēs](./aves-rapaces.md)
