@@ -1,4 +1,4 @@
-[Āēr](../006-aer/006-aer.md)
+[Āēr](../006-aer.md)
 
 ---
 
@@ -12,4 +12,4 @@ Flūmen habet *Rīpās*.
 
 ---
 
-[Nūbēs](../008-nubes/008-nubes.md)
+[Nūbēs](../008-nubes.md)

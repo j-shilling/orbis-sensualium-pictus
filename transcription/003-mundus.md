@@ -1,4 +1,4 @@
-[deus](../002-deus/002-deus.md)
+[deus](../002-deus.md)
 
 ---
 
@@ -18,4 +18,4 @@ Ita maxima *Corpora* Mundī, quatuor *Elementa*, sunt plēna Habitātōribus su�
 
 ---
 
-[caelum](../004-caelum/004-caelum.md)
+[caelum](../004-caelum.md)

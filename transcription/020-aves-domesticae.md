@@ -1,4 +1,4 @@
-[Animālia: et prīmum, Avēs](../019-animalia-et-primum-aves/019-animalia-et-primum-aves.md)
+[Animālia: et prīmum, Avēs](../019-animalia-et-primum-aves.md)
 
 ---
 
@@ -16,4 +16,4 @@ Hirundō, Passer, Pīca, Monēdula, et Vespertīliō (Mūs ālātus) volitant ci
 
 ---
 
-[Oscinēs](../021-oscines/021-oscines.md)
+[Oscinēs](../021-oscines.md)

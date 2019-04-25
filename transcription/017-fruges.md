@@ -1,4 +1,4 @@
-[Olera](../016-olera/016-olera.md)
+[Olera](../016-olera.md)
 
 ---
 
@@ -12,4 +12,4 @@ Legūmina habent Siliquās, quae inclūdunt grāna valvulīs, ut Pīsum, Fabae, 
 
 ---
 
-[Fruticēs](../018-frutices/018-frutices.md)
+[Fruticēs](../018-frutices.md)

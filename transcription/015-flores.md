@@ -1,4 +1,4 @@
-[Frūctūs Arborum](../014-fructus-arborum/014-fructus-arborum.md)
+[Frūctūs Arborum](../014-fructus-arborum.md)
 
 ---
 
@@ -20,6 +20,6 @@ Tulipa est decus Flōrum, set ēxpers odōris.
 
 ---
 
-[Olera](../016-olera/016-olera.md)
+[Olera](../016-olera.md)
 
 

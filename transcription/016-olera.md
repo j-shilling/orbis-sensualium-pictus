@@ -1,4 +1,4 @@
-[Fōrēs](../015-flores/015-flores.md)
+[Fōrēs](../015-flores.md)
 
 ---
 
@@ -8,5 +8,5 @@ Olera nāscuntur in hortīs, ut Lactūca, Brassica, Cēpa, Allium, Cucurbita, Si
 
 ---
 
-[Frūgēs](../017-fruges/017-fruges.md)
+[Frūgēs](../017-fruges.md)
 

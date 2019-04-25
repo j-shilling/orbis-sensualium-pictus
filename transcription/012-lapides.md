@@ -1,4 +1,4 @@
-[Metalla](../011-metalla/011-metalla.md)
+[Metalla](../011-metalla.md)
 
 ---
 
@@ -24,4 +24,4 @@
 
 ---
 
-[Arbor](../013-arbor/013-arbor.md)
+[Arbor](../013-arbor.md)

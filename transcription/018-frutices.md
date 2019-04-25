@@ -1,4 +1,4 @@
-[Frūgēs](../017-fruges/017-fruges.md)
+[Frūgēs](../017-fruges.md)
 
 ---
 
@@ -14,4 +14,4 @@ Item Vītis, quae ēmittit Palmitēs, et hī Capreolōs, Pampinōs, et Racēmōs
 
 ---
 
-[Animālia: et prīmum, Avēs](../019-animalia-et-primum-aves/019-animalia-et-primum-aves.md)
+[Animālia: et prīmum, Avēs](../019-animalia-et-primum-aves.md)

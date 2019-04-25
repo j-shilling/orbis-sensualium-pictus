@@ -74,4 +74,4 @@ Hic habēs vīvum et vōcāle Alphabētum.
 
 ---
 
-[Deus](../002-deus/002-deus.md)
+[Deus](../002-deus.md)

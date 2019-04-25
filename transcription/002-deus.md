@@ -1,4 +1,4 @@
-[Invītātiō](../001-invitatio/001-invitatio.md)
+[Invītātiō](../001-invitatio.md)
 
 ---
 
@@ -30,4 +30,4 @@ Ut *Creātor*, ita *Gubernātor* et *Cōnservātor* omnium rērum, quās vocāmu
 
 ---
 
-[Mundus](../003-mundus/003-mundus.md)
+[Mundus](../003-mundus.md)

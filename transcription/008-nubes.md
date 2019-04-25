@@ -1,4 +1,4 @@
-[Aqua](../007-aqua/007-aqua.md)
+[Aqua](../007-aqua.md)
 
 ---
 
@@ -22,4 +22,4 @@ Aqua congelāta *Glaciēs*, *Rōs* congelātus, dīcitur *Pruīna*.
 
 ---
 
-[Terra](../009-terra/009-terra.md)
+[Terra](../009-terra.md)
