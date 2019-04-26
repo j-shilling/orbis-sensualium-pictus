@@ -1,6 +1,6 @@
 [Īnsecta Volantia](./insecta-volantia.md)
 
---
+---
 
 # [Quadrupeda: et prīmum Domestica](https://www.archive.org/stream/cu31924032499455#page/n71/mode/1up)
 
