@@ -2,7 +2,7 @@
 
 ---
 
-# [Īnsecta Volantīa](https://www.archive.org/stream/cu31924032499455#page/n70/mode/1up)
+# [Īnsecta Volantia](https://www.archive.org/stream/cu31924032499455#page/n70/mode/1up)
 
 Āpis facit mel quod Fūcus dēpāscit.
 
