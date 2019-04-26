@@ -18,4 +18,4 @@ Cicindēla (Lampȳris) nitet noctū.
 
 ---
 
-[Quadrupeda: et primum Domestica](./026-quadrupeda-et-primum-domestica.md)
+[Quadrupeda: et prīmum Domestica](./026-quadrupeda-et-primum-domestica.md)
