@@ -1,4 +1,4 @@
-[Quadrupeda: et prīmum Domestica](./quadrupeda-et-primum-domestica)
+[Quadrupeda: et prīmum Domestica](./026-quadrupeda-et-primum-domestica)
 
 ---
 
