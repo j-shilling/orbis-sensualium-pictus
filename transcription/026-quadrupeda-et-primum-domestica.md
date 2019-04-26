@@ -14,4 +14,4 @@ Glīs et cēterī Mūrēs majōrēs, ut Mustēla, Mārtēs, Viverra, īnfestant 
 
 ---
 
-[Pecora](./pecora.md)
+[Pecora](./027-pecora.md)
