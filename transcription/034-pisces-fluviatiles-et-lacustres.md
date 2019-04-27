@@ -1,4 +1,4 @@
-[Amphibia](./033-amphibia)
+[Amphibia](./033-amphibia.md)
 
 ---
 
