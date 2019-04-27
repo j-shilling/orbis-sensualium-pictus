@@ -1,4 +1,4 @@
-[Īnsecta Rēpentia](./032-insecta-repentia)
+[Īnsecta Rēpentia](./032-insecta-repentia.md)
 
 ---
 
