@@ -28,4 +28,4 @@ Scorpiō venēnātā caudā.
 
 ---
 
-[Insecta Repentia](./032-insecta-repentia.md)
+[Īnsecta Rēpentia](./032-insecta-repentia.md)
