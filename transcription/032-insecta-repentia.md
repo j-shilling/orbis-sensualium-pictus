@@ -1,4 +1,4 @@
-[Serpentēs et Reptilia](031-serpentes-et-reptillia)
+[Serpentēs et Reptilia](031-serpentes-et-reptilia.md)
 
 ---
 
