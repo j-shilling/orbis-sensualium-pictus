@@ -16,4 +16,4 @@ Testūdō Operta et īnfrā testīs, ceu scūtō.
 
 ---
 
-[Pisces Fluviatiles et Lacustres](./034-pisces-fluviatiles-et-lacustres.md)
+[Piscēs Fluviātilēs et Lacustrēs](./034-pisces-fluviatiles-et-lacustres.md)
