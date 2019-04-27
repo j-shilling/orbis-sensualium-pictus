@@ -1,4 +1,4 @@
-[Ferae Bēstiae](./ferae-bestiae.md)
+[Ferae Bēstiae](./030-ferae-bestiae.md)
 
 ---
 
