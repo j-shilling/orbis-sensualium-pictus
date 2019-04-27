@@ -2,7 +2,7 @@
 
 ---
 
-# [Serpentes et Reptilia](https://www.archive.org/stream/cu31924032499455#page/n76/mode/1up)
+# [Serpentēs et Reptilia](https://www.archive.org/stream/cu31924032499455#page/n76/mode/1up)
 
 Anguēs rēpunt sinuandō sē.
 
