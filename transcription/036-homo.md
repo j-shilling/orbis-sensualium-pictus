@@ -12,4 +12,4 @@ Hī, sēductī Diabolō sub speciē Serpentis, cum comederent dē frūctū vetit
 
 ---
 
-[Septem Aetates Hominis](./037-septem-aetates-hominis.md)
+[Septem Aetātēs Hominis](./037-septem-aetates-hominis.md)
