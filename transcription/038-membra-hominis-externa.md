@@ -2,19 +2,19 @@
 
 ---
 
-[Membra Hominis Externa](https://www.archive.org/stream/cu31924032499455#page/n84/mode/1up)
+# [Membra Hominis Externa](https://www.archive.org/stream/cu31924032499455#page/n84/mode/1up)
 
-Caput est supra, infra Pedes. Anterior pars Colli (quod desit in Axillas) est Jugulum, posterior Cervix.
+Caput est suprā, īnfrā Pedēs. Anterior pars Collī (quod dēsit in Axillās) est Jugulum, posterior Cervīx.
 
-Pectus est ante; Dorsum retro. Feminis sunt in illo binae Mammae cum papillis.
+Pectus est ante; Dorsum retrō. Fēminīs sunt in illō bīnae Mammae cum papillīs.
 
-Sub pectore est Venter. In ejus medio Umbelicus. Subtus Inguen et pudenda.
+Sub pectore est Venter. In ejus mediō Umbilīcus. Subtus Inguen et pudenda.
 
-Scapulae sunt a tergo, a quibus pendent humeri. Ab his Brachia, cum Cubio. Inde ad utrumque Latus, Manus dextera et Sinistra.
+Scapulae sunt ā tergō, ā quibus pendent umerī. Ab hīs Brāchia, cum Cubitō. Inde ad utrumque Lātūs, Manus dextera et Sinistra.
 
-Lumbi excipiunt Humeros cum Coxis et in Podice (culo) Nates.
+Lumbī excipiunt Umerōs cum Coxīs et in Pōdice (cūlō) Natēs.
 
-Absolvunt Pedem; Femur, tum Crus (Genu intermedio.) in quo Sura cum Tilia, abhinc Tali, Calx, (Calcaneum), et Solum, in extremo Hallux cum quatur Digitis.
+Absolvunt Pedem; Femur, tum Crūs (Genu intermediō.) in quō Sūra cum Tiliā, abhinc Tālī, Calx, (Calcāneum), et Solum, in extrēmō Allus cum quattour Digitīs.
 
 ---
 
