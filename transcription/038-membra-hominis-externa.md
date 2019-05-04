@@ -18,4 +18,4 @@ Absolvunt Pedem; Femur, tum Crūs (Genu intermediō.) in quō Sūra cum Tiliā, 
 
 ---
 
-[Caput et Manus](./038-caput-et-manus.md)
+[Caput et Manus](./039-caput-et-manus.md)
